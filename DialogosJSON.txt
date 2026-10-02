@@ -1,0 +1,8 @@
+[
+  { "texto": "¡Hola! :)" },
+  { "texto": "Hoy te he traído una noticia muy interesante" },
+  { "texto": "Trata sobre un asesinato múltiple" },
+  { "texto": "Recuerda que después de leerla vas a tener que contestar a una pregunta de respuesta variable" },
+  { "texto": "Pulsa el botón de noticia cuando estés listo" },
+  { "texto": "0" }
+]
